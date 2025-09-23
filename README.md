@@ -6,4 +6,3 @@
  
  personal, creative projects [here](https://github.com/culubo) 
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ithlambelle&show_icons=true&theme=transparent)
